@@ -1,0 +1,25 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "ClassTools",
+	"Description": "Midfy The ClassTools by nextserioss",
+	"Category": "ClassTools",
+	"CreatedBy": "stone",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "ClassTools",
+			"Type": "Editor",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": ["Win64"]
+		}
+	]
+}
